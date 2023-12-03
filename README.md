@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AsylumTechie
-- 👀 I’m interested in coding language i.e. c++ , Java and Python too.
-- 🌱 I’m currently learning C+++
+- 👀 I’m interested in coding language i.e. c++ , Java and Javascript too.
+- 🌱 I’m currently learning javaScript
 - 💞️ I’m looking to collaborate on ...
 - 📫 You can directly ping me here only .
 
